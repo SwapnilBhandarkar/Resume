@@ -10,8 +10,8 @@ Hi, I'm Swapnil Bhandarkar, a second-year, fourth-semester student at LJ Institu
 
 ## Resume Contents
 - **Skills:** Problem Solving, Software, Teamwork
-- **Projects:** Cara(Ecoomerce Shopping website),GYM(Luxury Gym Webpage),Flappy Bird Game(Pygame Library),Data Analysis on Renewable-Non Renewable Resources
-- **Contact:** Email, LinkedIn
+- **Projects:** Cara(E-commerce Shopping website),GYM(Luxury Gym Webpage),Flappy Bird Game(Pygame Library),Data Analysis on Renewable-Non Renewable Resources
+- **Contact:** Email : swapnilkmb10@gmail.com, LinkedIn : https://www.linkedin.com/in/swapnil-bhandarkar-03081a271/
 
 ## Viewing the Resume
 The resume is available in PDF format.
